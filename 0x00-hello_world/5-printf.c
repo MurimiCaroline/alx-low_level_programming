@@ -1,6 +1,8 @@
 #include <stdio.h>
 /*
- *main - prints "with proper grammar, but the outcome is a piece of art"
+ *main-entry point for the program.
+ *
+ * Return0 if no errors, return nonzero if errors
  */
 int main(void)
 {
